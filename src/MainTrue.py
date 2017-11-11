@@ -92,3 +92,6 @@ axes.plot_surface(xi, ti, y)
 axes.plot_surface(xi, ti, yA)
 print(np.linalg.norm(y - yA) / np.linalg.norm(yA))
 pylab.show()
+
+
+#TEST GITHUB
